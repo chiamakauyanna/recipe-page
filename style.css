@@ -37,7 +37,7 @@ body{
   height: 780px;
   margin: auto;
   background-color: var(--White);
-  padding: 0.6em;
+  padding: 0.8em;
   border-radius: 10px;
 }
 
@@ -70,9 +70,9 @@ margin-bottom: 0.5em;
   margin-top: 1.2em;
 }
 
-.preparation-time h3{
+.preparation-time h2{
   color: var(--Rose-800);
-  font-size: 16px;
+  font-size: 10px;
   margin-bottom: 0.4em;
   font-weight: 600;
 }
@@ -117,10 +117,11 @@ span{
   margin-top: 1em;
 }
 
-.recipe-divs h2{
+.recipe-divs h3{
   margin-left: -1em;
   color: var(--Brown-800);
   margin-bottom: 0.6em;
+  font-size: 12px;
 }
 
 .recipe-divs ul li,
@@ -163,9 +164,10 @@ span{
   font-weight: 600;
  }
 
-.nutrition h2{
+.nutrition h3{
   color: var(--Brown-800);
   margin-bottom: 0.5em;
+  font-size: 12px;
 }
 
 .nutrition .nutrition-heading{
